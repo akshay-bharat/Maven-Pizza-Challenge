@@ -17,6 +17,8 @@ the questions asked were:
     d. What's our average order value?
     e. How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 
+## Calculated field
+Rank,countd,round functions were used for the best and worst pizzas,utilization rates,pizzas sold per hour
 
 ## Visualization
 1. The data was in 4 different tables.
